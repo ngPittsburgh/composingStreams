@@ -1,0 +1,16 @@
+[
+	{
+		"id":"gabo",
+		"name":"Gabo Obregon",
+		"age":"34",
+		"hair":"brn",
+		"eyes":"brn"
+	},
+	{
+		"id":"jeremy",
+		"name":"Jeremy Wells",
+		"age":"34",
+		"hair":"brn",
+		"eyes":"hzl"
+	}
+]
